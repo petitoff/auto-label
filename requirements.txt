@@ -1,0 +1,4 @@
+ultralytics
+numpy
+matplotlib
+pyside6
